@@ -46,4 +46,5 @@
  (tabbar . [(20160524) nil "Display a tab bar in the header line" tar])
  (yaml-mode . [(0 0 13) nil "Major mode for editing YAML files" tar])
  (elpa-mirror . [(20200502 115) ((emacs (24 4))) "Create local package repository from installed packages" tar])
+ (groovy-mode . [(20191031 2256) ((s (1 12 0)) (emacs (24 3)) (dash (2 13 0))) "Major mode for Groovy source files" tar])
 )
